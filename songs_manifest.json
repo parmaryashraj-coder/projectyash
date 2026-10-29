@@ -1,0 +1,178 @@
+﻿[
+    {
+        "id":  "kesariya",
+        "title":  "Kesariya (From \"Brahmastra\")",
+        "artist":  "Pritam, Arijit Singh \u0026 Amitabh Bhattacharya",
+        "audioLocal":  "audio/kesariya.m4a",
+        "audioUrl":  "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/4c/5c/384c5c8f-3ff8-e457-b2f7-3158ce108649/mzaf_12389299033886433185.plus.aac.p.m4a",
+        "coverLocal":  "covers/kesariya.jpg",
+        "coverUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/13/ca/9f13ca3b-e533-03e0-f19a-f0aaa774581d/196589311191.jpg/100x100bb.jpg",
+        "hasAudio":  true,
+        "hasCover":  true
+    },
+    {
+        "id":  "tum_hi_ho",
+        "title":  "Tum Hi Ho",
+        "artist":  "Mithoon \u0026 Arijit Singh",
+        "audioLocal":  "audio/tum_hi_ho.m4a",
+        "audioUrl":  "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3a/8c/9b/3a8c9b0b-2def-750a-f615-1555bf941edf/mzaf_17229496441442805917.plus.aac.p.m4a",
+        "coverLocal":  "covers/tum_hi_ho.jpg",
+        "coverUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/23/ee/bb23eeed-0c35-4f1d-2b11-485622777ae4/8902894353007_cover.jpg/100x100bb.jpg",
+        "hasAudio":  true,
+        "hasCover":  true
+    },
+    {
+        "id":  "apna_bana_le",
+        "title":  "Apna Bana Le - Arijit Singh Vocals Only",
+        "artist":  "Arijit Singh, Sachin-Jigar \u0026 Amitabh Bhattacharya",
+        "audioLocal":  "audio/apna_bana_le.m4a",
+        "audioUrl":  "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ff/b2/c2/ffb2c28b-2139-4ec4-f61e-271bc06bddad/mzaf_12403837045914372948.plus.aac.p.m4a",
+        "coverLocal":  "covers/apna_bana_le.jpg",
+        "coverUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/6f/5f/656f5fc0-4ce3-e03e-b7da-667a289f9e28/8909024114538.png/100x100bb.jpg",
+        "hasAudio":  true,
+        "hasCover":  true
+    },
+    {
+        "id":  "raataan_lambiyan",
+        "title":  "Raataan Lambiyan (From \"Shershaah\")",
+        "artist":  "Tanishk Bagchi, Jubin Nautiyal \u0026 Asees Kaur",
+        "audioLocal":  "audio/raataan_lambiyan.m4a",
+        "audioUrl":  "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/7a/7a/ff7a7a63-9947-cefa-e269-ad9602fb1ca3/mzaf_14039909875904828823.plus.aac.p.m4a",
+        "coverLocal":  "covers/raataan_lambiyan.jpg",
+        "coverUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c3/df/e7/c3dfe71e-d532-458e-9c1c-32d40f8d9123/886449472222.jpg/100x100bb.jpg",
+        "hasAudio":  true,
+        "hasCover":  true
+    },
+    {
+        "id":  "blinding_lights",
+        "title":  "Blinding Lights (Remix)",
+        "artist":  "The Weeknd \u0026 ROSALÍA",
+        "audioLocal":  "audio/blinding_lights.m4a",
+        "audioUrl":  "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/12/73/ca/1273ca46-233a-5331-189b-25ac1d656533/mzaf_976341070785891411.plus.aac.p.m4a",
+        "coverLocal":  "covers/blinding_lights.jpg",
+        "coverUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/61/e7/3f/61e73f94-018d-5f50-50ec-8521952bc72e/20UM1IM11629.rgb.jpg/100x100bb.jpg",
+        "hasAudio":  true,
+        "hasCover":  true
+    },
+    {
+        "id":  "shape_of_you",
+        "title":  "Shape of You",
+        "artist":  "Ed Sheeran",
+        "audioLocal":  "audio/shape_of_you.m4a",
+        "audioUrl":  "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/c7/4f/44c74f0d-72dc-6143-d4d0-ba14d661ca0d/mzaf_9566898362556366703.plus.aac.p.m4a",
+        "coverLocal":  "covers/shape_of_you.jpg",
+        "coverUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/100x100bb.jpg",
+        "hasAudio":  true,
+        "hasCover":  true
+    },
+    {
+        "id":  "starboy",
+        "title":  "Starboy (feat. Daft Punk)",
+        "artist":  "The Weeknd",
+        "audioLocal":  "audio/starboy.m4a",
+        "audioUrl":  "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/71/d6/1171d6ad-3c96-e027-2af6-58028426588c/mzaf_15137631797407745471.plus.aac.p.m4a",
+        "coverLocal":  "covers/starboy.jpg",
+        "coverUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/92/bb/b592bb72-52e3-e756-9b26-9f56d08f47ab/16UMGIM67864.rgb.jpg/100x100bb.jpg",
+        "hasAudio":  true,
+        "hasCover":  true
+    },
+    {
+        "id":  "levitating",
+        "title":  "Levitating",
+        "artist":  "Dua Lipa",
+        "audioLocal":  "audio/levitating.m4a",
+        "audioUrl":  "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/dc/4d/59dc4dda-93ff-8f1c-c536-f005f6ea6af5/mzaf_3066686759813252385.plus.aac.p.m4a",
+        "coverLocal":  "covers/levitating.jpg",
+        "coverUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/11/d6/6c11d681-aa3a-d59e-4c2e-f77e181026ab/190295092665.jpg/100x100bb.jpg",
+        "hasAudio":  true,
+        "hasCover":  true
+    },
+    {
+        "id":  "khalasi",
+        "title":  "Khalasi | Coke Studio Bharat",
+        "artist":  "Aditya Gadhvi \u0026 Achint",
+        "audioLocal":  "audio/khalasi.m4a",
+        "audioUrl":  "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/68/bd/0d68bdec-6fee-740f-ca95-02b701c18d48/mzaf_15555358427089070690.plus.aac.p.m4a",
+        "coverLocal":  "covers/khalasi.jpg",
+        "coverUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/df/c7/32dfc7ae-c9ce-842d-478b-23d0a4b97614/24UMGIM59593.rgb.jpg/100x100bb.jpg",
+        "hasAudio":  true,
+        "hasCover":  true
+    },
+    {
+        "id":  "dholida",
+        "title":  "Dholida (From \"Gangubai Kathiawadi\")",
+        "artist":  "Janhvi Shrimankar, Shail Hada, Dipti, Pragati, Rucha, Arohi, Sanjay Leela Bhansali \u0026 Archana",
+        "audioLocal":  "audio/dholida.m4a",
+        "audioUrl":  "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/58/0a/e3580aa3-2a94-f8e3-33af-4ce8d27fd00e/mzaf_17990530228880718560.plus.aac.p.m4a",
+        "coverLocal":  "covers/dholida.jpg",
+        "coverUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/73/e3/4373e314-fc31-7549-25ff-44d34790b7fe/196626455369.jpg/100x100bb.jpg",
+        "hasAudio":  true,
+        "hasCover":  true
+    },
+    {
+        "id":  "vhalam_aavo_ne",
+        "title":  "Vhalam Aavo Ne (Sad Version) [Male version]",
+        "artist":  "Sachin-Jigar, Jigardan Gadhavi \u0026 Niren Bhatt",
+        "audioLocal":  "audio/vhalam_aavo_ne.m4a",
+        "audioUrl":  "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/38/2c/e1382c28-0867-ca22-1e06-7002182f43e2/mzaf_17531767971940135343.plus.aac.p.m4a",
+        "coverLocal":  "covers/vhalam_aavo_ne.jpg",
+        "coverUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/dc/09/24dc09f9-dc3c-2016-8bbb-e422d96b83e0/cover.jpg/100x100bb.jpg",
+        "hasAudio":  true,
+        "hasCover":  true
+    },
+    {
+        "id":  "chogada",
+        "title":  "Chogada (From \"Loveyatri\")",
+        "artist":  "Darshan Raval, Asees Kaur \u0026 Lijo George-Dj Chetas",
+        "audioLocal":  "audio/chogada.m4a",
+        "audioUrl":  "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1f/bb/a1/1fbba135-c2a0-363b-0e44-267b9f1914e2/mzaf_12556899107469621015.plus.aac.p.m4a",
+        "coverLocal":  "covers/chogada.jpg",
+        "coverUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/af/69/79/af697907-7447-e35b-5446-40d3cb3e1f64/8903431684981_cover.jpg/100x100bb.jpg",
+        "hasAudio":  true,
+        "hasCover":  true
+    },
+    {
+        "id":  "brown_munde",
+        "title":  "Brown Munde",
+        "artist":  "AP Dhillon, Gminxr, Gurinder Gill \u0026 Shinda Kahlon",
+        "audioLocal":  "audio/brown_munde.m4a",
+        "audioUrl":  "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/97/74/69/977469be-a9d5-35a7-80ad-ebe12a799ccc/mzaf_804867738726203367.plus.aac.p.m4a",
+        "coverLocal":  "covers/brown_munde.jpg",
+        "coverUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/a3/ac/26a3ac64-69e4-95ec-80ab-1f5a477537d2/859742042973_cover.jpg/100x100bb.jpg",
+        "hasAudio":  true,
+        "hasCover":  true
+    },
+    {
+        "id":  "excuses",
+        "title":  "Excuses",
+        "artist":  "AP Dhillon, Gurinder Gill \u0026 Intense",
+        "audioLocal":  "audio/excuses.m4a",
+        "audioUrl":  "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e8/84/c8/e884c82f-7136-54d8-6754-6b45c6968f29/mzaf_11726474689882106813.plus.aac.p.m4a",
+        "coverLocal":  "covers/excuses.jpg",
+        "coverUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/47/ac/4747ac85-1658-64ae-bc82-220a4d6213d5/859747478890_cover.jpg/100x100bb.jpg",
+        "hasAudio":  true,
+        "hasCover":  true
+    },
+    {
+        "id":  "amplifier",
+        "title":  "Amplifier",
+        "artist":  "Imran Khan",
+        "audioLocal":  "audio/amplifier.m4a",
+        "audioUrl":  "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/07/49/c907498f-72ee-a92d-d35e-b84a294791d4/mzaf_1725919051371720512.plus.aac.p.m4a",
+        "coverLocal":  "covers/amplifier.jpg",
+        "coverUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/e5/d3/a2e5d31f-23bf-d5de-59c6-b1f3744668cf/dj.usvbhaev.jpg/100x100bb.jpg",
+        "hasAudio":  true,
+        "hasCover":  true
+    },
+    {
+        "id":  "pasoori",
+        "title":  "Pasoori",
+        "artist":  "Shae Gill \u0026 Ali Sethi",
+        "audioLocal":  "audio/pasoori.m4a",
+        "audioUrl":  "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/62/33/1e/62331ea8-d1df-027d-fe75-ac16a519323d/mzaf_14381883946572745360.plus.aac.p.m4a",
+        "coverLocal":  "covers/pasoori.jpg",
+        "coverUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f3/f9/06/f3f906c3-79d5-ac9a-5fdd-262048f955f9/cover.jpg/100x100bb.jpg",
+        "hasAudio":  true,
+        "hasCover":  true
+    }
+]
